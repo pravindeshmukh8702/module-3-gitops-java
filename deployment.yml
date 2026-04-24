@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: java-app
-          image: pravin8702/java-app:v2
+          image: pravin8702/java-app:v3
           ports:
             - containerPort: 8080
 
